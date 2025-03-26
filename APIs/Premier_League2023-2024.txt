@@ -1,0 +1,83 @@
+PREMIER LEAGUE TEAM STATS 2023-2024
+==================================================
+
+1. Manchester City
+   Points: 91 | Record: 28W-7D-3L
+   Goals: 96F 34A (Diff: 62)
+--------------------------------------------------
+2. Arsenal
+   Points: 89 | Record: 28W-5D-5L
+   Goals: 91F 29A (Diff: 62)
+--------------------------------------------------
+3. Liverpool
+   Points: 82 | Record: 24W-10D-4L
+   Goals: 86F 41A (Diff: 45)
+--------------------------------------------------
+4. Aston Villa
+   Points: 68 | Record: 20W-8D-10L
+   Goals: 76F 61A (Diff: 15)
+--------------------------------------------------
+5. Tottenham
+   Points: 66 | Record: 20W-6D-12L
+   Goals: 74F 61A (Diff: 13)
+--------------------------------------------------
+6. Chelsea
+   Points: 63 | Record: 18W-9D-11L
+   Goals: 77F 63A (Diff: 14)
+--------------------------------------------------
+7. Newcastle
+   Points: 60 | Record: 18W-6D-14L
+   Goals: 85F 62A (Diff: 23)
+--------------------------------------------------
+8. Manchester United
+   Points: 60 | Record: 18W-6D-14L
+   Goals: 57F 58A (Diff: -1)
+--------------------------------------------------
+9. West Ham
+   Points: 52 | Record: 14W-10D-14L
+   Goals: 60F 74A (Diff: -14)
+--------------------------------------------------
+10. Crystal Palace
+   Points: 49 | Record: 13W-10D-15L
+   Goals: 57F 58A (Diff: -1)
+--------------------------------------------------
+11. Brighton
+   Points: 48 | Record: 12W-12D-14L
+   Goals: 55F 62A (Diff: -7)
+--------------------------------------------------
+12. Bournemouth
+   Points: 48 | Record: 13W-9D-16L
+   Goals: 54F 67A (Diff: -13)
+--------------------------------------------------
+13. Fulham
+   Points: 47 | Record: 13W-8D-17L
+   Goals: 55F 61A (Diff: -6)
+--------------------------------------------------
+14. Wolves
+   Points: 46 | Record: 13W-7D-18L
+   Goals: 50F 65A (Diff: -15)
+--------------------------------------------------
+15. Everton
+   Points: 40 | Record: 13W-9D-16L
+   Goals: 40F 51A (Diff: -11)
+--------------------------------------------------
+16. Brentford
+   Points: 39 | Record: 10W-9D-19L
+   Goals: 56F 65A (Diff: -9)
+--------------------------------------------------
+17. Nottingham Forest
+   Points: 32 | Record: 9W-9D-20L
+   Goals: 49F 67A (Diff: -18)
+--------------------------------------------------
+18. Luton
+   Points: 26 | Record: 6W-8D-24L
+   Goals: 52F 85A (Diff: -33)
+--------------------------------------------------
+19. Burnley
+   Points: 24 | Record: 5W-9D-24L
+   Goals: 41F 78A (Diff: -37)
+--------------------------------------------------
+20. Sheffield United
+   Points: 16 | Record: 3W-7D-28L
+   Goals: 35F 104A (Diff: -69)
+--------------------------------------------------
